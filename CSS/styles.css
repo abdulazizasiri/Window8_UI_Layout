@@ -1,13 +1,23 @@
 body{
-  background-color: black;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(40,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 .windows_container{
   display: grid;
-  grid-template-columns: repeat(8,1fr);
+  grid-template-columns: repeat(3,1fr);
   max-width: 980px;
+  grid-gap: 15px;
   margin: 0 auto;
+
 }
 
 .box{
-  background-color: white;
+  background:  green;;
+  padding: 30px;
+  text-align: center;;
+color: white;
+
+}
+.windows_container div:nth-child(even){
+  background: blue;
 }
