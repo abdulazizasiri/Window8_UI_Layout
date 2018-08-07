@@ -126,3 +126,6 @@ Another one: https://designmodo.com/responsive-design-examples/
 
 
 Apple store: https://www.apple.com/shop/buy-mac/macbook-pro/13-inch
+
+
+Another one:  https://www.quora.com/What-are-your-biggest-challenges-as-a-front-end-web-developer-and-How-you-over-come-it
