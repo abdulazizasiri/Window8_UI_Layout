@@ -113,3 +113,19 @@ This is a lesson on a grid layout when building user interfaces that needs a gri
 
 
 More example are found here: https://www.uxpin.com/studio/blog/web-layout-best-practices-12-timeless-ui-patterns-explained/
+
+Heavy content practice: https://www.dtelepathy.com/blog/inspiration/14-beautiful-content-heavy-websites-for-inspiration
+
+Another one: https://speckyboy.com/25-modern-content-heavy-websites/
+
+Another one: https://constructive.co/insights/best-practices-for-content-heavy-website-design/
+
+
+
+Another one: https://designmodo.com/responsive-design-examples/
+
+
+Apple store: https://www.apple.com/shop/buy-mac/macbook-pro/13-inch
+
+
+Another one:  https://www.quora.com/What-are-your-biggest-challenges-as-a-front-end-web-developer-and-How-you-over-come-it
