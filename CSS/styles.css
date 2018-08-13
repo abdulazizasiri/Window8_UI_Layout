@@ -18,7 +18,7 @@
   display: grid;
   grid-template-columns: repeat(2,1fr);
   max-width: 980px;
-  grid-gap: 15px;
+  grid-gap: 10px;
 }
 
 .box{
