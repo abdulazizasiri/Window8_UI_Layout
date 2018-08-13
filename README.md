@@ -103,9 +103,53 @@ Adding a gap between column will make the layout look great by using:
 ```css
 .one{
   grid-column: 1/3 ; // This give the item .one a width that start at 1 and ends at 3rd column.
-  grid-row: 1/3 ; // This give the item .one a height that start at 1 and ends at 3rd rows. 
+  grid-row: 1/3 ; // This give the item .one a height that start at 1 and ends at 3rd rows.
 
 }
+
+```
+
+
+align-items: From top to bottom.
+
+justify-items: From right to left.
+
+
+## Grid Area:
+
+It is a convenient way to create grid lines.
+
+You can give every items in the grid a name by using:
+
+```css
+header{
+  grid-area: header;
+}
+
+nav{
+  grid-area: nav;
+}
+
+footer{
+  grid-area: footer;
+}
+
+aside{
+  grid-area: aside;
+}
+
+
+
+```
+Then, we can use them inside a grid container by their name to create a specific layout.
+
+```css
+
+grid-column-area:
+
+"header header header header"
+"footer footer footer footer "
+"nav nav aside aside aside ";
 
 ```
 
